@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82D71B7F-1DF2-406B-80EF-3615548AC403}|Calculator\\Calculator.csproj|D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D71B7F-1DF2-406B-80EF-3615548AC403}|Calculator\\Calculator.csproj|solutionrelative:Calculator\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D71B7F-1DF2-406B-80EF-3615548AC403}|Calculator\\Calculator.csproj|d:\\github.itaouo\\113-1-windows-programing\\calculator\\calculator\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D71B7F-1DF2-406B-80EF-3615548AC403}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D71B7F-1DF2-406B-80EF-3615548AC403}|Calculator\\Calculator.csproj|d:\\github.itaouo\\113-1-windows-programing\\calculator\\calculator\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82D71B7F-1DF2-406B-80EF-3615548AC403}|Calculator\\Calculator.csproj|solutionrelative:calculator\\calculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D71B7F-1DF2-406B-80EF-3615548AC403}|Calculator\\Calculator.csproj|D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\Number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D71B7F-1DF2-406B-80EF-3615548AC403}|Calculator\\Calculator.csproj|solutionrelative:Calculator\\Number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82D71B7F-1DF2-406B-80EF-3615548AC403}|Calculator\\Calculator.csproj|D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82D71B7F-1DF2-406B-80EF-3615548AC403}|Calculator\\Calculator.csproj|solutionrelative:Calculator\\Model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator\\Program.cs",
+              "ToolTip": "D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\Program.cs",
+              "RelativeToolTip": "Calculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:16:10.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculatorForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\CalculatorForm.cs",
+              "RelativeDocumentMoniker": "Calculator\\CalculatorForm.cs",
+              "ToolTip": "D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\CalculatorForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Calculator\\CalculatorForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:17:20.881Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorForm.cs",
+              "DocumentMoniker": "D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\CalculatorForm.cs",
+              "RelativeDocumentMoniker": "Calculator\\CalculatorForm.cs",
+              "ToolTip": "D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\CalculatorForm.cs",
+              "RelativeToolTip": "Calculator\\CalculatorForm.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T10:25:52.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model.cs",
+              "DocumentMoniker": "D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\Model.cs",
+              "RelativeDocumentMoniker": "Calculator\\Model.cs",
+              "ToolTip": "D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\Model.cs",
+              "RelativeToolTip": "Calculator\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:28:38.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Number.cs",
+              "DocumentMoniker": "D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\Number.cs",
+              "RelativeDocumentMoniker": "Calculator\\Number.cs",
+              "ToolTip": "D:\\github.itaouo\\113-1-Windows-Programing\\Calculator\\Calculator\\Number.cs",
+              "RelativeToolTip": "Calculator\\Number.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T15:29:11.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
